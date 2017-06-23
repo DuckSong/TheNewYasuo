@@ -1,0 +1,12 @@
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\YasuoBuddy.exe.config
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\YasuoBuddy.exe
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\YasuoBuddy.pdb
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\EloBuddy.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\EloBuddy.SDK.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\SharpDX.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\Newtonsoft.Json.dll
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\obj\Release\YasuoBuddy.exe
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\obj\Release\YasuoBuddy.pdb
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\obj\Release\TheNewYasuo.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Marzochi\Documents\GitHub\TheNewYasuo\bin\Release\EloBuddy.Sandbox.dll

@@ -1,0 +1,9 @@
+*.exe
+bin/Debug/YasuoBuddy.vshost.exe.config
+*.dll
+bin/Debug/YasuoBuddy.pdb
+*.manifest
+bin/Release/YasuoBuddy.exe.config
+obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+obj/Release/YasuoBuddy.pdb
+obj/Debug/TheNewYasuo.csprojResolveAssemblyReference.cache
